@@ -1,6 +1,3 @@
-# Omer Dan  ID- 316478882
-# Hagai Goren ID- 208957555
-
 import json
 
 # globals
